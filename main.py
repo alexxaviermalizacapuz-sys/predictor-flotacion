@@ -50,8 +50,8 @@ with st.sidebar:
         label='Porcentaje de concentración de hierro',
         min_value=61,
         max_value=69,
-        step=0.01,       # Paso decimal de 0.01
-        format="%.2f"    # Formato para mostrar 2 decimales
+        step=1,
+        
     )
     st.caption("Representa el porcentaje de concentración de hierro.")
 
