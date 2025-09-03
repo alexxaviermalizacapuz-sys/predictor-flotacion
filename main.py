@@ -50,7 +50,7 @@ with st.sidebar:
         label='Porcentaje de concentración de hierro',
         min_value=61.00,
         max_value=69.00,
-        Value=65#Valor incial
+        Value=65.00,#Valor incial
         step=0.001,
         format="%.2f" 
     )
