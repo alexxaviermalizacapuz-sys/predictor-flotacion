@@ -68,8 +68,7 @@ with st.sidebar:
 # --- Contenido de la Página Principal ---
 st.title("🧪 Modelo Predictivo del Porcentaje de Silica")
 st.markdown("""
-¡Bienvenido! Esta aplicación utiliza un modelo de machine learning para predecir el porcentaje de concentración de silica en el proceso de lixiviación basándose en parámetros operativos clave.
-
+¡Bienvenido! Este sistema utiliza un modelo de machine learning para predecir en tiempo real la concentración de sílica en las espumas de flotación, apoyando la optimización del proceso mediante el análisis continuo de parámetros operativos.
 *Esta herramienta puede ayudar a los ingenieros de procesos y operadores a:*
 - *Optimizar* las condiciones de operación para obtener el porcentage de silica final.
 - *Predecir* el impacto de los cambios en el proceso antes de implementarlos.
