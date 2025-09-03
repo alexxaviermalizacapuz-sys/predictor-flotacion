@@ -118,6 +118,6 @@ with st.expander("ℹ Sobre la Aplicación"):
     *Detalles del Modelo:*
 
     * *Tipo de Modelo:* Regression Model (XGBoost Optimizado)
-    * *Propósito:* Predecir el valor continuo del rendimiento de la destilación.
-    * *Características Usadas:* Porcentaje de concentración de acero, Flujo de amina y Flujo de aire en la columna de flotación.
+    * *Propósito:* Predecir el valor continuo del Porcentaje de Silica.
+    * *Características Usadas:* Porcentaje de concentración de hierro, Flujo de amina y Flujo de aire en la columna de flotación.
     """)
