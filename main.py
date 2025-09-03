@@ -51,8 +51,7 @@ with st.sidebar:
         min_value=61.00,
         max_value=69.00,
         Value=65.00,#Valor incial
-        step=0.001,
-        format="%.2f" 
+        step=0.001, 
     )
     st.caption("Representa el porcentaje de concentración de hierro.")
 
