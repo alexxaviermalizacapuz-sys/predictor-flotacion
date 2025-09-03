@@ -32,7 +32,7 @@ model = load_model('model.joblib')
 with st.sidebar:
     st.header("⚙ Parámetros de Entrada")
     st.markdown("""
-    Ajusta los deslizadores para que coincidan con los parámetros operativos de la lixiviación.
+    Ajusta los deslizadores para que coincidan con los parámetros operativos de la flotación.
     """)
 
     # Slider para el flujo de Amina
