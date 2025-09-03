@@ -70,7 +70,7 @@ st.title("🧪 Modelo Predictivo del Porcentaje de Silica")
 st.markdown("""
 ¡Bienvenido! Este sistema utiliza un modelo de machine learning para predecir en tiempo real la concentración de sílica en las espumas de flotación, apoyando la optimización del proceso mediante el análisis continuo de parámetros operativos.
 *Esta herramienta puede ayudar a los ingenieros de procesos y operadores a:*
-- *Optimizar* las condiciones de operación para obtener el porcentage de silica final.
+- *Optimizar* las condiciones de operación para obtener el porcentaje de silica final.
 - *Predecir* el impacto de los cambios en el proceso antes de implementarlos.
 - *Solucionar* problemas potenciales simulando diferentes escenarios.
 """)
